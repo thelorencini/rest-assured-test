@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d835901c-dc49-48f2-bd86-cb42eb2e7831" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WQjqco95ZS21TMKi9IibUkCnxe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RLLV\IdeaProjects\desafio\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RunTest (1)">
+    <configuration name="RunTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="challenge-accepted" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="desafio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunTest (1)" />
+        <item itemvalue="TestNG.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d835901c-dc49-48f2-bd86-cb42eb2e7831" name="Default Changelist" comment="" />
+      <created>1579088904058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579088904058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593980160737">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.700@0.27.1366.700" timestamp="1593980160737" />
+    <state x="172" y="27" width="1012" height="700" key="SettingsEditor" timestamp="1593981545281">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="172" y="27" width="1012" height="700" key="SettingsEditor/0.27.1366.700@0.27.1366.700" timestamp="1593981545281" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/CadastroSteps.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/CadastroSteps.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaCadastro.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/CompraSteps.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
