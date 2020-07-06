@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d835901c-dc49-48f2-bd86-cb42eb2e7831" name="Default Changelist" comment="" />
+    <list default="true" id="d835901c-dc49-48f2-bd86-cb42eb2e7831" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/features/GET.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Enderecos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Pessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Telefones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/rest/APIConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/rest/ServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/setup/SetupManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/util/GeraDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/ComunsSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/GetSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/cadastro.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/POST.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/compra.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaBusca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaCadastro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaCesta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaGarantia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaInicial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaProduto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/report/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/core/report/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/report/ExtentReports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/core/report/ExtentReports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/setup/DriverManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/takescreenshoot/TakeScreenShoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/util/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gherkin/hooks/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gherkin/hooks/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/CadastroSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/CompraSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PostSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/challenge-accepted.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaBusca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaCadastro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaCesta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaGarantia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaInicial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/listener/TestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/core/listener/TestListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/report/ExtentManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/report/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/core/report/ExtentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/report/ExtentReports.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/core/report/ExtentReports.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/setup/DriverManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/takescreenshoot/TakeScreenShoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/util/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/extent-reports/extentReport_15-1-2020.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/extent-reports/extentReport_16-1-2020.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/gherkin/hooks/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gherkin/hooks/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/gherkin/stepdefs/CadastroSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/gherkin/stepdefs/CompraSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/RunTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,8 +98,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -89,38 +161,106 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593980160737">
+    <state x="416" y="134" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1593989069550">
       <screen x="0" y="27" width="1366" height="700" />
     </state>
-    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.700@0.27.1366.700" timestamp="1593980160737" />
-    <state x="172" y="27" width="1012" height="700" key="SettingsEditor" timestamp="1593981545281">
+    <state x="416" y="134" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1366.700@0.27.1366.700" timestamp="1593989069550" />
+    <state x="352" y="178" width="651" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593983149942">
       <screen x="0" y="27" width="1366" height="700" />
     </state>
-    <state x="172" y="27" width="1012" height="700" key="SettingsEditor/0.27.1366.700@0.27.1366.700" timestamp="1593981545281" />
+    <state x="352" y="178" width="651" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.700@0.27.1366.700" timestamp="1593983149942" />
+    <state x="505" y="187" key="#xdebugger.evaluate" timestamp="1593999468635">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="505" y="187" key="#xdebugger.evaluate/0.27.1366.700@0.27.1366.700" timestamp="1593999468635" />
+    <state width="431" height="478" key="DebuggerActiveHint" timestamp="1593999335303">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="431" height="478" key="DebuggerActiveHint/0.27.1366.700@0.27.1366.700" timestamp="1593999335303" />
+    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593988899693">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.700@0.27.1366.700" timestamp="1593988899693" />
+    <state width="1320" height="2" key="GridCell.Tab.0.bottom" timestamp="1594001085133">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.bottom/0.27.1366.700@0.27.1366.700" timestamp="1594001085133" />
+    <state width="1320" height="2" key="GridCell.Tab.0.center" timestamp="1594001085131">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.center/0.27.1366.700@0.27.1366.700" timestamp="1594001085131" />
+    <state width="1320" height="2" key="GridCell.Tab.0.left" timestamp="1594001085130">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.left/0.27.1366.700@0.27.1366.700" timestamp="1594001085130" />
+    <state width="1320" height="2" key="GridCell.Tab.0.right" timestamp="1594001085132">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.right/0.27.1366.700@0.27.1366.700" timestamp="1594001085132" />
+    <state width="1320" height="2" key="GridCell.Tab.1.bottom" timestamp="1594001085136">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.bottom/0.27.1366.700@0.27.1366.700" timestamp="1594001085136" />
+    <state width="1320" height="2" key="GridCell.Tab.1.center" timestamp="1594001085135">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.center/0.27.1366.700@0.27.1366.700" timestamp="1594001085135" />
+    <state width="1320" height="2" key="GridCell.Tab.1.left" timestamp="1594001085134">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.left/0.27.1366.700@0.27.1366.700" timestamp="1594001085134" />
+    <state width="1320" height="2" key="GridCell.Tab.1.right" timestamp="1594001085136">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.right/0.27.1366.700@0.27.1366.700" timestamp="1594001085136" />
+    <state x="172" y="27" width="1012" height="700" key="SettingsEditor" timestamp="1593987301704">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="172" y="27" width="1012" height="700" key="SettingsEditor/0.27.1366.700@0.27.1366.700" timestamp="1593987301704" />
+    <state width="683" height="351" key="XDebugger.FullValuePopup" timestamp="1594001043649">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="683" height="351" key="XDebugger.FullValuePopup/0.27.1366.700@0.27.1366.700" timestamp="1594001043649" />
+    <state x="435" y="300" width="485" height="151" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1593988921940">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="435" y="300" width="485" height="151" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.27.1366.700@0.27.1366.700" timestamp="1593988921940" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/CadastroSteps.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/CadastroSteps.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaCadastro.java</url>
           <line>38</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/CompraSteps.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="24" />
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/GetSteps.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PostSteps.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PostSteps.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

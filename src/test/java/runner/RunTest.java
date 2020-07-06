@@ -19,7 +19,7 @@ import java.io.*;
         (
                 features = "features",
                 glue = {"gherkin.stepdefs", "gherkin.hooks"},
-                tags = {"@COMPRACT001"},
+                tags = {},
                 plugin = {"com.vimalselvam.cucumber.listener.ExtentCucumberFormatter:"},
                 monochrome = true
         )
