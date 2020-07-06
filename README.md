@@ -1,6 +1,6 @@
 ---- CHALLENGE ----
 
-Projeto de automação site Americanas
+Projeto de automação de uma API simples
 
 
 

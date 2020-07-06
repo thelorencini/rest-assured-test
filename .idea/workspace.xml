@@ -20,59 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d835901c-dc49-48f2-bd86-cb42eb2e7831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/features/GET.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Enderecos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Pessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Telefones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/rest/APIConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/rest/ServiceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/setup/SetupManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/util/GeraDocumento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/ComunsSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/GetSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/cadastro.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/POST.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/compra.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaBusca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaCadastro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaCesta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaGarantia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaInicial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaProduto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/report/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/core/report/ExtentManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/report/ExtentReports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/core/report/ExtentReports.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/setup/DriverManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/takescreenshoot/TakeScreenShoot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/util/Base.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gherkin/hooks/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gherkin/hooks/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/CadastroSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/CompraSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PostSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/RunTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/challenge-accepted.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaBusca.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaCadastro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaCesta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaGarantia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaInicial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/americanas/TelaProduto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/listener/TestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/core/listener/TestListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/report/ExtentManager$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/report/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/core/report/ExtentManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/report/ExtentReports.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/core/report/ExtentReports.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/setup/DriverManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/takescreenshoot/TakeScreenShoot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/util/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/extent-reports/extentReport_15-1-2020.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/extent-reports/extentReport_16-1-2020.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/gherkin/hooks/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gherkin/hooks/Hooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/gherkin/stepdefs/CadastroSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/gherkin/stepdefs/CompraSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/RunTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
